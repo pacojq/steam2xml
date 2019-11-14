@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Paco\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Paco\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_steam2xml.-1732270046.00" t="ExcludeRecursive" />
+    <e p="D:\Desktop\steam2xml" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="steam2xml" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="steam2xml.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="steam2xml.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
